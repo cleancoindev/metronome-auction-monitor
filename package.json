@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "config": "1.30.0",
-    "metronome-contracts": "1.4.1",
+    "metronome-contracts": "1.4.2",
     "slack-winston": "0.0.9",
     "web3": "1.0.0-beta.34",
     "winston": "2.4.3",
