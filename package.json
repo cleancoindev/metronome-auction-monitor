@@ -9,7 +9,7 @@
     "config": "1.30.0",
     "metronome-contracts": "1.4.1",
     "slack-winston": "0.0.9",
-    "web3": "1.0.0-beta.34",
+    "web3": "1.7.3",
     "winston": "2.4.3",
     "winston-papertrail": "1.0.5"
   },
