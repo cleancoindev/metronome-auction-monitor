@@ -6,7 +6,7 @@
     "test": "mocha test.js"
   },
   "dependencies": {
-    "config": "1.30.0",
+    "config": "3.3.1",
     "metronome-contracts": "1.4.1",
     "slack-winston": "0.0.9",
     "web3": "1.0.0-beta.34",
